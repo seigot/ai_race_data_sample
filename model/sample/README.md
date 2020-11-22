@@ -1,5 +1,5 @@
 以下データから作った学習モデル<br>
-[https://github.com/seigot/ai_race_data/tree/main/dataset/20201107](https://github.com/seigot/ai_race_data/tree/main/dataset/20201107)<br>
+[dataset/sample](https://github.com/seigot/ai_race_data_sample/tree/main/dataset/sample)<br>
 <br>
 trtファイルは大きいので、以下の通り結合してから使用下さい。<br>
 <br>
