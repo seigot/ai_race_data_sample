@@ -6,7 +6,7 @@ trtファイルは大きいので、以下の通り結合してから使用下�
 結合
 
 ```
-cat sample_trt_p_* > sample_trt.pth
+cat sample_trt_p* > sample_trt.pth
 ```
 
 分割
